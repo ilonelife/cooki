@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "207848014380",
+    "project_id": "cooki-c269a",
+    "storage_bucket": "cooki-c269a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:207848014380:android:a634e09ed406824c754789",
+        "android_client_info": {
+          "package_name": "com.oneslife.cooki"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYs-S7ulowxNgKqHZByguYYdZbPwgiTHs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

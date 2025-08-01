@@ -1,0 +1,41 @@
+name: cooki
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: ^3.7.2
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_localizations:
+    sdk: flutter
+
+  # Firebase 관련 패키지
+  firebase_core: ^4.0.0
+  firebase_auth: ^6.0.0
+  cloud_firestore: ^6.0.0
+  firebase_storage: ^13.0.0
+  cloud_functions: ^6.0.0
+
+  # 상태 관리
+  get: ^4.7.2
+
+  # UI 및 미디어 관련
+  cached_network_image: ^3.4.1
+  video_player: ^2.10.0
+  image_picker: ^1.1.2
+
+  # 음성 및 타이머 관련
+  flutter_tts: ^4.2.3
+  flutter_timer_countdown: ^1.0.7
+  vibration: ^3.1.3
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+flutter:
+  uses-material-design: true
